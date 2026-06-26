@@ -82,7 +82,7 @@ monthly_sales = 127,238
 
 ## Recommendation
 
-**Use Model M3 (Multiple Regression) for business decisions.** It provides the best fit and the most nuanced understanding of what drives monthly sales. Model M1 (Footfall) is a useful, communicable tool for operational target-setting. Model M2 (Marketing) should not be used in isolation.
+Using Model M3 (Multiple Regression) for business decisions.It provides the best fit and the most nuanced understanding of what drives monthly sales. Model M1 (Footfall) is a useful, communicable tool for operational target-setting. Model M2 (Marketing) should not be used in isolation.
 
 **Priority actions based on M3:**
 1. Invest in footfall-generating activities (top driver)
